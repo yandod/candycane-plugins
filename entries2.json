@@ -1,38 +1,11 @@
 {
-"cc_nyancat":{
-  "id":"cc_nyancat",
-  "name":"Nyan Down Chart",
-  "description":"This plugin make you nyan'd!!",
-  "url":"https:\/\/github.com\/downloads\/yandod\/cc_nyancat\/cc_nyancat-v0.2.zip",
-  "author":"yandod",
-  "author_url":"https:\/\/github.com\/yandod",
+"cc_emoji":{
+  "id":"cc_emoji",
+  "name":"CandyCane Emoji Plugin",
+  "description":"You can sue EMOJI in your ticket description and similar place.",
+  "url":"https:\/\/github.com\/ha1t\/candycane-emoji\/zipball\/master",
+  "author":"ha1t",
+  "author_url":"https:\/\/github.com\/ha1t",
   "version":"0.1"
 },
-"cc_epicsax":{
-  "id":"cc_epicsax",
-  "name":"Epic Sax Guy plugin.",
-  "description":"You never forget this sax roll.",
-  "url":"https:\/\/github.com\/downloads\/yandod\/cc_epicsax\/yandod-cc_epicsax-v0.1-0-gad8a5da.zip",
-  "author":"yandod",
-  "author_url":"https:\/\/github.com\/yandod",
-  "version":"0.1"
-},
-"cc_moriyoshi":{
-  "id":"cc_moriyoshi",
-  "name":"Mugen MORIYOSHI plugin.",
-  "description":"You can invest Moriyoshi.",
-  "url":"https:\/\/github.com\/downloads\/yandod\/cc_moriyoshi\/cc_moriyoshi-v0.1.zip",
-  "author":"yandod",
-  "author_url":"https:\/\/github.com\/yandod",
-  "version":"0.1"
-},
-"cc_like_it":{
-  "id":"cc_like_it",
-  "name":"Like It plugin.",
-  "description":"This plugin will add Like it button on issue page. data will be recorded into Journal table.",
-  "url":"https:\/\/github.com\/downloads\/yandod\/cc_like_it\/cc_like_it-v0.1.zip",
-  "author":"yandod",
-  "author_url":"https:\/\/github.com\/yandod",
-  "version":"0.1"
-}
 }
