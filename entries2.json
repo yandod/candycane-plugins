@@ -8,4 +8,13 @@
   "author_url":"https:\/\/github.com\/ha1t",
   "version":"0.1"
 },
+"cc_octoland":{
+  "id":"cc_octoland",
+  "name":"CandyCane Emoji Plugin",
+  "description":"Collect all octocat stickers on CandyCane for free.",
+  "url":"https:\/\/github.com\/yandod\/CcOctoland\/zipball\/master",
+  "author":"yandod",
+  "author_url":"https:\/\/github.com\/yandod",
+  "version":"0.1"
+}
 }
