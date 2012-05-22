@@ -2,7 +2,7 @@
 "cc_emoji":{
   "id":"cc_emoji",
   "name":"CandyCane Emoji Plugin",
-  "description":"You can sue EMOJI in your ticket description and similar place.",
+  "description":"You can use EMOJI in your ticket description and similar place.",
   "url":"https:\/\/github.com\/ha1t\/candycane-emoji\/zipball\/master",
   "author":"ha1t",
   "author_url":"https:\/\/github.com\/ha1t",
@@ -10,7 +10,7 @@
 },
 "cc_octoland":{
   "id":"cc_octoland",
-  "name":"CandyCane Emoji Plugin",
+  "name":"Octoland Plugin",
   "description":"Collect all octocat stickers on CandyCane for free.",
   "url":"https:\/\/github.com\/yandod\/CcOctoland\/zipball\/master",
   "author":"yandod",
