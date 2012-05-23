@@ -1,4 +1,13 @@
 {
+"cc_nyancat":{
+  "id":"cc_nyancat",
+  "name":"Nyan down chart rocks!",
+  "description":"This is demonstration of plugin system.",
+  "url":"https:\/\/github.com\/downloads\/yandod\/cc_nyancat\/cc_nyancat-v0.3.zip",
+  "author":"yandod",
+  "author_url":"https:\/\/github.com\/yandod",
+  "version":"0.3"
+},
 "cc_emoji":{
   "id":"cc_emoji",
   "name":"CandyCane Emoji Plugin",
