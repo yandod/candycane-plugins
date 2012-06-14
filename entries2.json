@@ -25,5 +25,14 @@
   "author":"yandod",
   "author_url":"https:\/\/github.com\/yandod",
   "version":"0.1"
+},
+"cc_gal":{
+  "id":"cc_gal",
+  "name":"Gal Moji Plugin",
+  "description":"Let's talk like Japanese gal on CandyCane",
+  "url":"https:\/\/github.com\/downloads\/hamaco\/candycane-gal\/candycane-gal-0.1.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"0.1"
 }
 }
