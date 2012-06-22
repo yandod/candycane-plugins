@@ -34,5 +34,14 @@
   "author":"hamaco",
   "author_url":"https:\/\/github.com\/hamaco",
   "version":"0.0.1"
+},
+"cc_facebook":{
+  "id":"cc_facebook",
+  "name":"Facebook Plugin",
+  "description":"supporting candycane login via facebook account.",
+  "url":"https:\/\/github.com\/downloads\/yandod\/CcFacebook\/yandod-CcFacebook-v0.1-0-g944919b.zip",
+  "author":"yandod",
+  "author_url":"https:\/\/github.com\/yandod",
+  "version":"0.1"
 }
 }
