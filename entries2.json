@@ -17,14 +17,23 @@
   "author_url":"https:\/\/github.com\/ha1t",
   "version":"0.1"
 },
-"cc_octoland":{
-  "id":"cc_octoland",
-  "name":"Octoland Plugin",
-  "description":"Collect all octocat stickers on CandyCane for free.",
-  "url":"https:\/\/github.com\/yandod\/CcOctoland\/zipball\/master",
+"cc_emoji":{
+  "id":"cc_emoji",
+  "name":"CandyCane Emoji Plugin",
+  "description":"You can use EMOJI in your ticket description and similar place.",
+  "url":"https:\/\/github.com\/ha1t\/candycane-emoji\/zipball\/master",
+  "author":"ha1t",
+  "author_url":"https:\/\/github.com\/ha1t",
+  "version":"0.1"
+},
+"cc_weather":{
+  "id":"cc_weather",
+  "name":"Weather news Plugin",
+  "description":"you can see weather news at news section.",
+  "url":"https:\/\/github.com\/downloads\/yandod\/cc_weather\/cc_weather-v0.2-0-geaf0b66.zip",
   "author":"yandod",
   "author_url":"https:\/\/github.com\/yandod",
-  "version":"0.1"
+  "version":"0.2"
 },
 "cc_gal":{
   "id":"cc_gal",
