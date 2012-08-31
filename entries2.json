@@ -48,9 +48,9 @@
   "id":"cc_facebook",
   "name":"Facebook Plugin",
   "description":"supporting candycane login via facebook account.",
-  "url":"https:\/\/github.com\/downloads\/yandod\/CcFacebook\/CcFacebook-v0.4.zip",
+  "url":"https:\/\/github.com\/downloads\/yandod\/CcFacebook\/CcFacebook-v0.5.zip",
   "author":"yandod",
   "author_url":"https:\/\/github.com\/yandod",
-  "version":"0.3"
+  "version":"0.5"
 }
 }
