@@ -17,15 +17,6 @@
   "author_url":"https:\/\/github.com\/ha1t",
   "version":"0.1"
 },
-"cc_emoji":{
-  "id":"cc_emoji",
-  "name":"CandyCane Emoji Plugin",
-  "description":"You can use EMOJI in your ticket description and similar place.",
-  "url":"https:\/\/github.com\/ha1t\/candycane-emoji\/zipball\/master",
-  "author":"ha1t",
-  "author_url":"https:\/\/github.com\/ha1t",
-  "version":"0.1"
-},
 "cc_weather":{
   "id":"cc_weather",
   "name":"Weather news Plugin",
