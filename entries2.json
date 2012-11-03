@@ -52,5 +52,14 @@
   "author":"yandod",
   "author_url":"https:\/\/github.com\/yandod",
   "version":"0.5"
+},
+"cc_google_auth":{
+  "id":"cc_google_auth",
+  "name":"Google Auth Plugin",
+  "description":"supporting candycane login via google account.",
+  "url": "https:\/\/github.com\/ha1t\/candycane-google-auth\/archive\/v0.5.zip",
+  "author":"halt",
+  "author_url":"https:\/\/github.com\/ha1t",
+  "version":"0.5"
 }
 }
