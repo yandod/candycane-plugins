@@ -52,5 +52,14 @@
   "author":"halt",
   "author_url":"https:\/\/github.com\/ha1t",
   "version":"0.5"
+},
+"cc_repository_browser":{
+  "id":"cc_repository_browser",
+  "name":"Repository Browser Plugin",
+  "description":"simple github? repository browser.",
+  "url":"https:\/\/github.com\/hamaco\/candycane-repository-browser\/archive\/v0.1.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"0.1"
 }
 }
