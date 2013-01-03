@@ -61,5 +61,41 @@
   "author":"hamaco",
   "author_url":"https:\/\/github.com\/hamaco",
   "version":"0.1"
+},
+"cc_u-nya-":{
+  "id":"cc_u-nya-",
+  "name":"CandyCane U-nya- Plugin",
+  "description":"u-nya-",
+  "url":"https:\/\/github.com\/hamaco\/candycane-u-nya-\/archive\/0.2.0.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"0.2.0"
+},
+"cc_theme_changer":{
+  "id":"cc_theme_changer",
+  "name":"CandyCane Theme Changer Plugin",
+  "description":"each user can select theme",
+  "url":"https:\/\/github.com\/hamaco\/candycane-theme-changer\/archive\/0.1.0.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"0.1.0"
+},
+"cc_enter_cancel":{
+  "id":"cc_enter_cancel",
+  "name":"CandyCane Enter Cancel Plugin",
+  "description":"ignore enter key at issue subject text field",
+  "url":"https:\/\/github.com\/hamaco\/candycane-enter-cancel\/archive\/0.1.0.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"0.1.0"
+},
+"cc_comment_only":{
+  "id":"cc_comment_only",
+  "name":"CandyCane Comment Only Plugin",
+  "description":"only comments are displayed at issue history",
+  "url":"https:\/\/github.com\/hamaco\/candycane-comment-only\/archive\/0.1.0.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"0.1.0"
 }
 }
