@@ -97,5 +97,14 @@
   "author":"hamaco",
   "author_url":"https:\/\/github.com\/hamaco",
   "version":"0.1.0"
+},
+"cc_default_order":{
+  "id":"cc_default_order",
+  "name":"Default Order Plugin",
+  "description":"Set default order on the issues view. `sort:Priority.position/direction:desc` is hardcoded for default order currently.",
+  "url":"https:\/\/github.com\/kanonji\/CcDefaultOrder\/archive\/0.1.zip",
+  "author":"kanonji",
+  "author_url":"https:\/\/github.com\/kanonji",
+  "version":"0.1"
 }
 }
