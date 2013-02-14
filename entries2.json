@@ -106,5 +106,14 @@
   "author":"kanonji",
   "author_url":"https:\/\/github.com\/kanonji",
   "version":"0.2"
+},
+"cc_assign_narrowdown":{
+  "id":"cc_assign_narrowdown",
+  "name":"CandyCane Assign Narrowdown Plugin",
+  "description":"narrow down issues assign members.",
+  "url":"https:\/\/github.com\/hamaco\/candycane-assign-narrowdown\/archive\/0.1.0.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"0.1.0"
 }
 }
