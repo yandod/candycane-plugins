@@ -115,5 +115,14 @@
   "author":"hamaco",
   "author_url":"https:\/\/github.com\/hamaco",
   "version":"0.1.0"
+},
+"cc_overall_activity_menu":{
+  "id":"cc_overall_activity_menu",
+  "name":"CandyCane Overall Activity Menu Plugin",
+  "description":"add menu to overall activity page.",
+  "url":"https:\/\/github.com\/hamaco\/candycane-overall-activity-menu\/archive\/0.0.1.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"0.0.1"
 }
 }
