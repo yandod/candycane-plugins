@@ -124,5 +124,14 @@
   "author":"hamaco",
   "author_url":"https:\/\/github.com\/hamaco",
   "version":"0.0.1"
+},
+"cc_default_due_date":{
+  "id":"cc_default_due_date",
+  "name":"CandyCane DDD(Default Due Date) Plugin",
+  "description":"this is candycane plugin set 7 days after to due date.",
+  "url":"https:\/\/github.com\/hamaco\/candycane-default-due-date\/archive\/0.1.0.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"0.1.0"
 }
 }
