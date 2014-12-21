@@ -133,5 +133,14 @@
   "author":"hamaco",
   "author_url":"https:\/\/github.com\/hamaco",
   "version":"0.1.0"
+},
+"cc_youtube_video":{
+  "id":"cc_youtube_video",
+  "name":"CandyCane YouTube Embed Tag Plugin",
+  "description":"youtube embed tag macro.",
+  "url":"https:\/\/github.com\/hamaco\/candycane-youtube-video\/archive\/1.0.0.zip",
+  "author":"hamaco",
+  "author_url":"https:\/\/github.com\/hamaco",
+  "version":"1.0.0"
 }
 }
